@@ -1,3 +1,5 @@
+Development of this project has stopped!
+
 ## Radio Wave Hybrid Glitch Effect.  
 
 ## Radio Wave Hybrid Glitch Effect  is an interactive file made within P5 
@@ -53,6 +55,8 @@ function draw() {
   
 
 }
+
+What if I have never used P5 before and I want to learn? Visit The Coding Train at: https://thecodingtrain.com/tracks/code-programming-with-p5-js
 
 ## Contributing
 
